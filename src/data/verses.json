@@ -1,0 +1,827 @@
+[
+  {
+    "id": 1,
+    "chapter": "Prologue",
+    "scope": "General",
+    "sanskrit": "namo bodhisattvāya mañjuśriye kumārabhūtāya /\n\n\nkālatrayākhilajināṃśca tadīyadharmān saṅghān mahādaratayā praṇipatya cāpi /\nbodhiprabheṇa kathito viśadīkaromi śiṣyottamena khalu bodhipathapradipam",
+    "tibetan": "བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ་བཞུགས་སོ།\nརྒྱ་གར་སྐད་དུ། བོ་དྷི་པཱ་ཐ་པྲ་དི་པཾ།\nབོད་སྐད་དུ། བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ།\n\nབྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །\n\nདུས་གསུམ་རྒྱལ་བ་ཐམས་ཅད་དག་དང་དེའི་ཆོས་དང་། །\nདགེ་འདུན་རྣམས་ལ་གུས་པ་ཆེན་པོས་ཕྱག་བྱས་ཏེ། །\nསློབ་མ་བཟང་པོ་བྱང་ཆུབ་འོད་ཀྱིས་བསྐུལ་གྱུར་པས། །\nབྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ་རབ་ཏུ་གསལ་བར་བྱ། །",
+    "english": "I pay homage with great respect\n To all the Victorious Ones of the three times,\n To their teaching and to those who aspire to virtue.\nUrged by the good disciple Jangchup Wö,\nI shall illuminate the lamp\nFor the path to enlightenment.",
+    "logic_link": [
+      2
+    ],
+    "bengali": "নমো বোধিসত্ত্বায় মঞ্জুশ্ৰিয়ে কুমারভূতায় /\n\nকালত্রয়খিলজিনাংশ্চ তদীয়ধর্মান্ সঙ্ঘান্ মহাদরতয়া প্রণিপত্য় চাপি /\nবোধিপ্রভেণ কথিতো ৱিশদীকরোমি শিষ্য়োত্তমেন খলু বোধিপথপ্রদিপম্"
+  },
+  {
+    "id": 2,
+    "chapter": "Prologue",
+    "scope": "General",
+    "tibetan": "ཆུང་ངུ་འབྲིང་དང་མཆོག་གྱུར་པས། །\nསྐྱེས་བུ་གསུམ་དུ་ཤེས་པར་བྱ། །\nདེ་དག་མཚན་ཉིད་རབ་གསལ་བ། །\nསོ་སོའི་དབྱེ་བ་བྲི་བར་བྱ། །",
+    "english": "Know that there are three kinds of persons—\nLesser, middling, and supreme.\nI shall write clearly distinguishing\nEach of their characteristics.",
+    "logic_link": [
+      3
+    ],
+    "sanskrit": "puruṣāstrividhā jñeyā uttamādhamamadhmāḥ /\nlikhyate lakṣaṇaṃ teṣāṃ sphuṭaṃ pratyekabhedataḥ",
+    "bengali": "পুরুষাস্ত্রিৱিধা জ্ঞেয়া উত্তমাধমমধ্মাঃ /\nলিখ্য়তে লক্ষণং তেষাং স্ফুটং প্রত্য়েকভেদতঃ"
+  },
+  {
+    "id": 3,
+    "chapter": "Three Scopes",
+    "scope": "Small",
+    "tibetan": "གང་ཞིག་ཐབས་ནི་གང་དག་གིས། །\nའཁོར་བའི་བདེ་བ་ཙམ་དག་ལ། །\nརང་ཉིད་དོན་དུ་གཉེར་བྱེད་པ་། །\nདེ་ནི་སྐྱེས་བུ་ཐ་མར་ཤེས། །",
+    "english": "Those who by whatever means\nPursue for their own sake\nMerely the pleasures of samsara\nAre known as the lowest persons.",
+    "logic_link": [
+      4
+    ],
+    "sanskrit": "upāyena tu kenāpi kevalaṃ saṃsṛteḥ sukham /\nsvasyaivārthe ya īheta jñeyaḥ so puruṣo 'dhamaḥ",
+    "bengali": "উপায়েন তু কেনাপি কেৱলং সংসৃতেঃ সুখম্ /\nস্ৱস্য়ৈৱার্থে য ঈহেত জ্ঞেয়ঃ সো পুরুষো ঽধমঃ"
+  },
+  {
+    "id": 4,
+    "chapter": "Three Scopes",
+    "scope": "Middling",
+    "tibetan": "སྲིད་པའི་བདེ་ལ་རྒྱབ་ཕྱོགས་ཤིང་། །\nསྡིག་པའི་ལས་ལས་ལྡོག་བདག་ཉིད། །\nགང་ཞིག་རང་ཞི་ཙམ་དོན་གཉེར། །\nསྐྱེས་བུ་དེ་ནི་འབྲིང་ཞེས་བྱ། །",
+    "english": "Turning their backs on worldly pleasures,\nAnd spurning all acts that are misdeeds,\nThose who seek peace for just themselves\nAre called the middling persons.",
+    "logic_link": [
+      5
+    ],
+    "sanskrit": "pāpakarmanivṛttātmā bhavasukhāt parāṅmukhaḥ /\nātmanirvāṇamātrārthī yo naro madhyamastu saḥ",
+    "bengali": "পাপকর্মনিৱৃত্তাত্মা ভৱসুখাৎ পরাঙ্মুখঃ /\nআত্মনিৰ্ৱাণমাত্রার্থী যো নরো মধ্য়মস্তু সঃ"
+  },
+  {
+    "id": 5,
+    "chapter": "Three Scopes",
+    "scope": "Great",
+    "tibetan": "རང་རྒྱུད་གཏོགས་པའི་སྡུག་བསྔལ་གྱིས། །\nགང་ཞིག་གཞན་གྱི་སྡུག་བསྔལ་ཀུན། །\nཡང་དག་ཟད་པར་ཀུན་ནས་འདོད། །\nསྐྱེས་བུ་དེ་ནི་མཆོག་ཡིན་ནོ། །",
+    "english": "Those persons who, from the suffering\nIn their own being, truly wish\nTo fully end all miseries\nOf others are supreme.",
+    "logic_link": [
+      6
+    ],
+    "sanskrit": "svasantānagatairduḥkhairduḥkhasyānyasya sarvathā /\nsarvasya yaḥ kṣayaṃ kāṅkṣeduttamaḥ puruṣastu saḥ",
+    "bengali": "স্ৱসন্তানগতৈর্দুঃখৈর্দুঃখস্য়ান্য়স্য সর্ৱথা /\nসর্ৱস্য যঃ ক্ষয়ং কাঙ্ক্ষেদুত্তমঃ পুরুষস্তু সঃ"
+  },
+  {
+    "id": 6,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "སེམས་ཅན་དམ་པ་བྱང་ཆུབ་མཆོག །\nའདོད་པར་གྱུར་པ་དེ་དག་ལ། །\nབླ་མ་རྣམས་ཀྱིས་བསྟན་པ་ཡི། །\nཡང་དག་ཐབས་ནི་བཤད་པར་བྱ། །",
+    "english": "For those great beings who desire\nSupreme enlightenment,\nI shall explain the perfect methods\nThat the gurus taught.",
+    "logic_link": [
+      7
+    ],
+    "sanskrit": "kāṅkṣanto hi varāṃ bodhiṃ sattvānāmuttamāstathā /\ndarśitān gurubhistebhyaḥ sadupāyāṃ pracakṣmahe",
+    "bengali": "কাঙ্ক্ষন্তো হি ৱরাং বোধিং সত্ত্ৱানামুত্তমাস্তথা /\nদর্শিতান্ গুরুভিস্তেভ্য়ঃ সদুপায়াং প্রচক্ষ্মহে"
+  },
+  {
+    "id": 7,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "རྫོགས་སངས་བྲིས་སྐུ་ལ་སོགས་དང་། །\nམཆོད་རྟེན་དམ་པ་མངོན་ཕྱོགས་ནས། །\nམེ་ཏོག་བདུག་སྤོས་དངོས་པོ་དག །\nཅི་འབྱོར་པ་ཡི་མཆོད་པ་བྱ། །",
+    "english": "Facing a painting of the Buddha\nAnd so forth, a stupa, and the True,\nMake offerings of flowers, scents,\nAnd all the things you own",
+    "logic_link": [
+      8
+    ],
+    "sanskrit": "sambuddhacitramūrtyādistūpasaddharmasammukhaḥ /\npuṣpaidhupaiḥ padārthaiśca yathāprāptaiḥ supūjayet",
+    "bengali": "সম্বুদ্ধচিত্রমূর্ত্য়াদিস্তূপসদ্ধর্মসম্মুখঃ /\nপুষ্পৈধুপৈঃ পদার্থৈশ্চ যথাপ্রাপ্তৈঃ সুপূজয়েৎ"
+  },
+  {
+    "id": 8,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "ཀུན་བཟང་སྤྱོད་ལས་གསུངས་པ་ཡི། །\nམཆོད་པ་རྣམ་པ་བདུན་དག་ཀྱང་། །\nབྱང་ཆུབ་སྙིང་པོའི་མཐར་ཐུག་པར། །\nམི་ལྡོག་པ་ཡི་སེམས་དག་གིས། །",
+    "english": "As well as the seven offerings\nTaught in Samantabhadra’s prayer.\nResolving to never turn back till\nThe essence of enlightenment,",
+    "logic_link": [
+      9
+    ],
+    "sanskrit": "samantabhadracaryoktā pūjā saptavidhāpi ca /\nbodhisārasya paryantam avaivartikacittataḥ",
+    "bengali": "সমন্তভদ্রচর্য়োক্তা পূজা সপ্তৱিধাপি চ /\nবোধিসারস্য পর্যন্তম্ অৱৈৱর্তিকচিত্ততঃ"
+  },
+  {
+    "id": 9,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "དཀོན་མཆོག་གསུམ་ལ་རབ་དད་ཅིང་། །\nཔུས་མོ་ལྷ་ང་སར་བཙུགས་ནས། །\nཐལ་མོ་སྦྱར་བ་བྱས་ནས་ནི། །\nདང་པོར་སྐྱབས་འགྲོ་ལན་གསུམ་བྱ། །",
+    "english": "Have sincere faith in the Three Jewels,\nKneel down with one knee on the ground,\nThen join your palms, and first of all\nGo three times for refuge.",
+    "logic_link": [
+      10
+    ],
+    "sanskrit": "suśraddhayā triratneyaḥ bhumau saṃsthāpya jānunī /\nbhūtvā kṛtāñjaliścāpi triścādau śaraṇaṃ vrajet",
+    "bengali": "সুশ্রদ্ধয়া ত্রিরত্নেয়ঃ ভুমৌ সংস্থাপ্য় জানুনী /\nভূত্বা কৃতাঞ্জলিশ্চাপি ত্রিশ্চাদৌ শরণং ৱ্রজেৎ"
+  },
+  {
+    "id": 10,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "དེ་ནས་སེམས་ཅན་ཐམས་ཅད་ལ། །\nབྱམས་པའི་སེམས་ནི་སྔོན་འགྲོ་བས། །\nངན་སོང་གསུམ་དུ་སྐྱེ་སོགས་དང་། །\nའཆི་འཕོ་སོགས་ཀྱིས་སྡུག་བསྔལ་བའི། །\nའགྲོ་བ་མ་ལུས་ལ་བལྟས་ཏེ། །",
+    "english": "Beginning with an attitude\nOf loving-kindness for them all,\nRegard all sentient beings who suffer\nIn the three lower realms or else\nFrom birth and such or death and so forth.",
+    "logic_link": [
+      11
+    ],
+    "sanskrit": "tataḥ samastasattveṣu maitrīcitta puraskṛtaḥ /\ndurgatitrayājanmādisaṅkrāntimaraṇādibhiḥ",
+    "bengali": "ততঃ সমস্তসত্ত্ৱেষু মৈত্রীচিত্ত পুরস্কৃতঃ /\nদুর্গতিত্রয়জন্মাদিসংক্রান্তিমরণাদিভিঃ"
+  },
+  {
+    "id": 11,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "སྡུག་བསྔལ་གྱིས་ནི་སྡུག་བསྔལ་བ། །\nསྡུག་བསྔལ་སྡུག་བསྔལ་རྒྱུ་མཚན་ལས། །\nའགྲོ་བ་ཐར་བར་འདོད་པ་ཡིས། །\nལྡོག་པ་མེད་པར་དམ་འཆའ་བའི། །\nབྱང་ཆུབ་སེམས་ནི་བསྐྱེད་པར་བྱ། །",
+    "english": "Wishing to liberate all beings\nFrom the suffering of suffering,\nFrom sufferings, and their reasons,\nArouse the irreversible\nResolve to attain enlightenment.",
+    "logic_link": [
+      12
+    ],
+    "sanskrit": "dṛṣṭvāśeṣaṃ jagaddukhaṃ duḥkhena dukhitāyāśca /\nduḥkhahetostathā duḥkhāt jagatāṃ muktikāṅkṣayā",
+    "bengali": "দৃষ্ট্ৱাশেষং জগদ্দুঃখং দুঃখেন দুখিতায়াশ্চ /\nদুঃখহেতোস্তথা দুঃখাৎ জগতাং মুক্তিকাঙ্ক্ষয়া"
+  },
+  {
+    "id": 12,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "དེ་ལྟར་སྨོན་པའི་སེམས་དག་ནི། །\nབསྐྱེད་པའི་ཡོན་ཏན་གང་ཡིན་པ། །\nདེ་ནི་སྡོང་པོ་བཀོད་པ་ཡི། །\nམདོ་ལས་བྱམས་པས་རབ་ཏུ་བཤད། །",
+    "english": "In the Gaṇḍavyūha Sutra,\nMaitreya has explained in full\nThe qualities of thus arousing\nAspirational bodhichitta.",
+    "logic_link": [
+      13
+    ],
+    "sanskrit": "bodhicittaṃ samutpādyamanāpāyipratijñayā /\nevaṃ praṇidhicittānām utpādetu guṇāśca ye",
+    "bengali": "বোধিচিত্তং সমুৎপাদ্য়মনাপায়িপ্রতিজ্ঞয়া /\nএৱং প্রণিধিচিত্তানাম্ উৎপাদেতু গুণাশ্চ যে"
+  },
+  {
+    "id": 13,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "དེ་ཡི་མདོ་ཀློག་པའམ་བླ་མ་ལ་མཉན་ཏེ། །\nརྫོགས་པའི་བྱང་ཆུབ་སེམས་ཀྱི་ཡོན་ཏན་མཐའ་མེད་པ། །\nརྣམ་པར་ཤེས་པར་བྱས་ལ་དེ་ནས་རྒྱུ་མཚན་དུ། །\nདེ་ལྟར་ཡང་དང་ཡང་དུ་སེམས་ནི་བསྐྱེད་པར་བྱ། །",
+    "english": "Read sutras or else listen to a lama,\nAnd learn the limitless qualities of the mind\nOf perfect enlightenment. Then as a reason,\nRepeatedly rouse bodhichitta thus.",
+    "logic_link": [
+      14
+    ],
+    "sanskrit": "te gaṇḍavyūhasūtreṣu maitreyeṇa prabhāṣitāḥ /\nsūtrasya tasya paṭhanācchravaṇād gurorvā\nsambodhicittaguṇakāni nirantakāni",
+    "bengali": "তে গণ্ডৱ্যূহসূত্রেষু মৈত্রেয়েণ প্রভাষিতাঃ /\nসূত্রস্য তস্য পঠনাচ্ছ্রৱণাদ্ গুরোৰ্ৱা\nসম্বোধিচিত্তগুণকানি নিরন্তকানি"
+  },
+  {
+    "id": 14,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "དཔའ་སྦྱིན་གྱིས་ཞུས་མདོ་དག་ལས། །\nའདི་ཡི་བསོད་ནམས་རབ་བསྟན་པ། །\nགང་དེ་ཚིགས་བཅད་གསུམ་ཙམ་དུ། །\nམདོར་བསྡུས་འདིར་ནི་བྲི་བར་བྱ། །",
+    "english": "Here I will cite three verses from\nThe Sutra Requested by Viradata\nThat briefly summarize its merits\nAs they have been explained.",
+    "logic_link": [
+      15
+    ],
+    "sanskrit": "vijñāya tasya khalu saṃsthitārarṇāna /\ncittaṃ tathā samudayeta muhurmuhaśca /\nvīradattaparīpṛcchāsūtre puṇyaṃ pradarśitam",
+    "bengali": "ৱিজ্ঞায় তস্য খলু সংস্থিতার্বর্ণান /\nচিত্তং তথা সমুদয়েত মুহুর্মুহশ্চ /\nৱীরদত্তপরীপৃচ্ছাসূত্রে পুণ্যং প্রদর্শিতম্"
+  },
+  {
+    "id": 15,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་གང་། །\nདེ་ལ་གལ་ཏེ་གཟུགས་མཆིས་ན། །\nནམ་མཁའི་ཁམས་ནི་ཀུན་གང་སྟེ། །\nདེ་ནི་དེ་བས་ལྷག་པར་འགྱུར། །",
+    "english": "“If the merit of bodhichitta\nWere to have a form,\nIt would fill all the realms in space\nAnd yet be even greater.",
+    "logic_link": [
+      16
+    ],
+    "sanskrit": "yattacślokatrayeṇaiva samāsenātralikhyate /\nbodhicittāddhi yatpuṇyaṃ tacca rupi bhavedyadi",
+    "bengali": "যত্তচ্শ্লোকত্রয়েণৈৱ সমাসেনাত্রলিখ্য়তে /\nবোধিচিত্তাদ্ধি যৎপুণ্যং তচ্চ রুপি ভৱেদ্যদি"
+  },
+  {
+    "id": 16,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "གངྒཱའི་བྱེ་བ་གྲངས་སྙེད་ཀྱི། །\nསངས་རྒྱས་ཞིང་རྣམས་མི་གང་གིས། །\nརིན་ཆེན་དག་གིས་ཀུན་བཀང་སྟེ། །\nའཇིག་རྟེན་མགོན་ལ་ཕུལ་བ་བས། །",
+    "english": "“If someone were to fill with jewels\nAs many buddha realms\nAs there are sand grains in the Ganges\nAnd offer them to the buddhas,",
+    "logic_link": [
+      17
+    ],
+    "sanskrit": "ākāśadhātuṃ sampūrya bhuyaścottari tadbhavet /\ngaṅgāvālikasaṅkhyāni buddhakṣetrāṇi yo naraḥ",
+    "bengali": "আকাশধাতুং সম্পূর্য ভুয়শ্চোত্তরি তদ্ভবেৎ /\nগঙ্গাৱালিকসঙ্খ্য়ানি বুদ্ধক্ষেত্রাণি যো নরঃ"
+  },
+  {
+    "id": 17,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "གང་གིས་ཐལ་མོ་སྦྱར་བགྱིས་ཏེ། །\nབྱང་ཆུབ་ཏུ་ནི་སེམས་བཏུད་ན། །\nམཆོད་པ་འདི་ནི་ཁྱད་པར་འཕགས། །\nདེ་ལ་མཐའ་ནི་མ་མཆིས་སོ། །",
+    "english": "“The offering of someone who\nJoined palms and imagined bowing\nTo enlightenment would be far greater,\nFor it does not have any limits.”",
+    "logic_link": [
+      18
+    ],
+    "sanskrit": "dadyātsadratna pūrṇāni lokanāthebhya eva hi /\nyaścaikaḥ prāñjalirbhūtvā cittaṃ bodhāya nāmayet",
+    "bengali": "দ্দযাৎসদ্রত্ন পূর্ণানি লোকনাথেভ্য এৱ হি /\nযশ্চৈকঃ প্রাঞ্জলির্ভূত্বা চিত্তং বোধায় নাময়েৎ"
+  },
+  {
+    "id": 18,
+    "chapter": "Aspiration",
+    "scope": "Great",
+    "tibetan": "བྱང་ཆུབ་སྨོན་པའི་སེམས་དག་བསྐྱེད་ནས་ནི། །\nའབད་པ་མང་པོས་ཀུན་ཏུ་སྤེལ་བྱ་ཞིང་། །\nའདི་ནི་སྐྱེ་བ་གཞན་དུ་འང་དྲན་དོན་དུ། །\nཇི་སྐད་བཤད་པའི་བསླབ་པའང་ཡོངས་སུ་བསྲུང་། །",
+    "english": "After rousing aspirational bodhichitta,\nAlways enhance it with abundant efforts.\nTo remember it in other births as well,\nProperly keep it as has been explained.",
+    "logic_link": [
+      19
+    ],
+    "sanskrit": "iyaṃ viśeṣyate pūjā yasyānto 'pi na vidyate /\nutpādyabodhipraṇidhānacittaṃ naikaprayatnaiḥ parivardhitavyam",
+    "bengali": "ইয়ং ৱিশেষ্য়তে পূজা যস্যান্তো ঽপি ন ৱিদ্যতে /\nউৎপাদ্য়বোধিপ্রণিধানচিত্তং নৈকপ্রয়ত্নৈঃ পরিৱর্ধিতৱ্যম্"
+  },
+  {
+    "id": 19,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "འཇུག་སེམས་བདག་ཉིད་སྡོམ་པ་མ་གཏོགས་པར། །\nཡང་དག་སྨོན་པ་འཕེལ་བར་འགྱུར་མ་ཡིན། །\nརྫོགས་པའི་བྱང་ཆུབ་སྨོན་པ་འཕེལ་འདོད་པས། །\nདེ་ཕྱིར་འབད་པས་འདི་ནི་ངེས་པར་བླང་། །",
+    "english": "Without the vow of engaged bodhichitta,\nPerfect aspiration will not grow.\nYou want the wish for enlightenment to grow,\nSo surely make the effort to take the vow.",
+    "logic_link": [
+      20
+    ],
+    "sanskrit": "janmāntare 'pi smaraṇārthamasya śikṣā yathoktā paripālanīyā /\nprasthānacitte svayamātiriktaṃ samyagbhavenna praṇidhānavṛddhiḥ",
+    "bengali": "জন্মান্তরে ঽপি স্মরণার্থমস্য শিক্ষা যথোক্তা পরিপালনীয়া /\nপ্রস্থানচিত্তে স্ৱয়মাতিরিক্তং সম্যগ্ভবেন্ন প্রণিধানৱৃদ্ধিঃ"
+  },
+  {
+    "id": 20,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "སོ་སོར་ཐར་པ་རིགས་བདུན་གྱི། །\nརྟག་ཏུ་སྡོམ་གཞན་ལྡན་པ་དང་། །\nབྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་ཡི། །\nསྐལ་བ་ཡོད་ཀྱི་གཞན་དུ་མིན། །",
+    "english": "If you continually maintain a vow—\nOne of the seven pratimoksha vows\nOr else another—you’ve the fortune for\nThe bodhisattva vow, not otherwise.",
+    "logic_link": [
+      21
+    ],
+    "sanskrit": "sambodhisaṃvāra vivṛddhikāmaḥ tasmād dhruvaṃ cainamavāpnuyāta /\nsaptadhāprātimokṣaiśca sadānyasaṃvarānvitaḥ",
+    "bengali": "সম্বোধিসংবার ৱিৱৃদ্ধিকামঃ তস্মাদ্ ধ্ৰুৱং চৈনমৱাপ্নুয়াত /\nসপ্তধাপ্রাতিমোক্ষৈশ্চ সদান্যসংৱরান্ৱিতঃ"
+  },
+  {
+    "id": 21,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "སོ་སོར་ཐར་པ་རིས་བདུན་དང་། །\nདེ་བཞིན་གཤེགས་པས་བཤད་པ་ལ། །\nཚངས་སྤྱོད་དཔལ་ནི་མཆོག་ཡིན་ཏེ། །\nདགེ་སློང་སྡོམ་པ་དག་ཏུ་བཞེས། །",
+    "english": "Among the seven kinds of pratimoksha,\nIn explanations by the Tathāgata,\nThe glory of chaste conduct is supreme:\nThis is intended as the bhikshu vows.",
+    "logic_link": [
+      22
+    ],
+    "sanskrit": "bhāgyaṃ bodhisattvānāṃ saṃvarasya na cānyathā /\nsaptadhā prātimokṣeṣu bhāṣiteṣu tathāgataiḥ",
+    "bengali": "ভাগ্যং বোধিসত্ত্বানাং সংৱরস্য ন চান্যথা /\nসপ্তধা প্রাতিমোক্ষেষু ভাষিতেষু তথাগতৈঃ"
+  },
+  {
+    "id": 22,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་ས་དག་གི །\nཚུལ་ཁྲིམས་ལེགས་གསུངས་ཆོ་ག་ཡིས། །\nཡང་དག་མཚན་ཉིད་ལྡན་པ་ཡི། །\nབླ་མ་བཟང་ལས་སྡོམ་པ་བླང་། །",
+    "english": "Take the vow through the ritual\nDescribed in the chapter on discipline\nOf The Bodhisattva Levels from\nA good, well-qualified lama.",
+    "logic_link": [
+      23
+    ],
+    "sanskrit": "brahmacaryaśriyaḥ śreṣṭhāḥ bhikṣusaṃvara iṣyate /\nśīlādhyāyoktavidhinā bodhisattvasya bhumiṣu",
+    "bengali": "ব্রহ্মচর্যশ্রিয়ঃ শ্রেষ্ঠাঃ ভিক্ষুসংৱর ইষ্য়তে /\nশীলাধ্য়ায়োক্তৱিধিনা বোধিসত্ৱস্য ভুমিষু"
+  },
+  {
+    "id": 23,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "སྡོམ་པའི་ཆོ་ག་ལ་མཁས་དང་། །\nབདག་ཉིད་གང་ཞིག་སྡོམ་ལ་གནས། །\nསྡོམ་པ་འབོགས་བཟོད་སྙིང་རྗེར་ལྡན། །\nབླ་མ་བཟང་པོར་ཤེས་པར་བྱ། །",
+    "english": "One skilled in the vow ceremony,\nA person who lives by the vow\nAnd has the patience and compassion\nTo give the vows, is a good lama.",
+    "logic_link": [
+      24
+    ],
+    "sanskrit": "saṃvaraḥ sadgurorgrāhyaḥ samyaglakṣaṇayuktataḥ /\nyaḥ saṃvaravidhau dakṣaḥ svayaṃ ca saṃvare sthitaḥ",
+    "bengali": "সংৱরঃ সদ্গুরোর্গ্রাহ্যঃ সম্যগ্লক্ষণযুক্ততঃ /\nযঃ সংৱরৱিধৌ দক্ষঃ স্ৱয়ং চ সংৱরে স্থিতঃ"
+  },
+  {
+    "id": 24,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "དེ་ལ་འབད་པས་འདི་འདྲ་བའི། །\nགལ་ཏེ་བླ་མ་མ་རྙེད་ན། །\nདེ་ལས་གཞན་སྡོམ་ནོད་པ་ཡི། །\nཆོ་ག་ཡང་དག་བཤད་པར་བྱ། །",
+    "english": "In case you are unable to find\nSuch a lama despite your efforts,\nI’ll properly explain another\nRitual to take the vow.",
+    "logic_link": [
+      25
+    ],
+    "sanskrit": "kṛpāluḥ saṃvare śaktaḥ jñātavyaḥ sadgurustu saḥ /\ntatra yatnena na prāpto guruścaitādṛśo yadi",
+    "bengali": "কৃপালুঃ সংৱরে শক্তঃ জ্ঞাতৱ্যঃ সদ্গুরুস্তু সঃ /\nতত্র যত্নেন ন প্রাপ্তো গুরুশ্চৈতাদৃশো যদি"
+  },
+  {
+    "id": 25,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "དེ་ལ་སྔོན་ཚེ་འཇམ་པའི་དཔལ། །\nཨ་བ་རཱ་ཛར་གྱུར་པ་ཡིས། །",
+    "english": "Here I shall clearly write of how\nWhen he was Ambarāja long ago,",
+    "logic_link": [
+      26
+    ],
+    "sanskrit": "saṃvaragrahaṇasyānyo vidhiḥ tasmāt samuyacte /\nambararājabhutena pūrvaṃ mañjuśriyā yathā",
+    "bengali": "সংৱরগ্রহণস্য়ান্যো ৱিধিঃ তস্মাৎ সমুয়চ্তে /\nঅম্বরারাজভুতেন পূর্ৱং মঞ্জুশ্রিয়া যথা"
+  },
+  {
+    "id": 26,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "ཇི་ལྟར་བྱང་ཆུབ་ཐུགས་བསྐྱེད་པ། །\nའཇམ་དཔལ་གྱི་ནི་སངས་རྒྱས་ཞིང་། །\nརྒྱན་གྱི་མདོ་ལས་བཤད་པ་ལྟར། །\nདེ་བཞིན་འདིར་ནི་རབ་གསལ་བྲི། །",
+    "english": "Manjushri aroused bodhichitta\nAs was described within The Sutra\nOf the Array of Qualities\nOf Manjushri’s Buddha Realm.",
+    "logic_link": [
+      27
+    ],
+    "sanskrit": "bodhicittaṃ samutpādi suspaṣṭaṃ cātra likhyate /\nmañjuśribuddhakṣetrālaṅkārasūtroktivat tathā",
+    "bengali": "বোধিচিত্তং সমুৎপাদি সুস্পষ্টং চাত্র লিখ্য়তে /\nমঞ্জুশ্রিবুদ্ধক্ষেত্রালঙ্কারসূত্রোক্তিবৎ তথা"
+  },
+  {
+    "id": 27,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "མགོན་པོ་རྣམས་ཀྱི་སྤྱན་སྔ་རུ། །\nརྫོགས་པའི་བྱང་ཆུབ་སེམས་བསྐྱེད་ཅིང་། །\nའགྲོ་བ་ཐམས་ཅད་མགྲོན་དུ་གཉེར། །\nདེ་དག་འཁོར་བ་ལས་བསྒྲལ་ལོ། །",
+    "english": "“In the presence of the guardians,\nI make the resolve of bodhichitta.\nI invite all beings as my guests—\nI’ll liberate them from samsara,",
+    "logic_link": [
+      28
+    ],
+    "sanskrit": "utpādayāmi sambodhau cittaṃ nāthasya sammukham /\nnimantraye jagatsarvaṃ dāridyānmocitāsmi tat",
+    "bengali": "উৎপাদয়ামি সম্বোধৌ চিত্তং নাথস্য সম্মুখম্ /\nনিমন্ত্রয়ে জগৎসর্ৱং দারিদ্য়ান্মোচিতাস্মি তৎ"
+  },
+  {
+    "id": 28,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "གནོད་སེམས་ཁྲོ་བའི་སེམས་ཉིད་དང་། །\nསེར་སྣ་དང་ནི་ཕྲག་དོག་ཉིད། །\nདེང་ནས་བཟུང་ནས་བྱང་ཆུབ་མཆོག །\nཐོབ་ཀྱི་བར་དུ་མི་བྱ་འོ། །",
+    "english": "“From this day on till I achieve\nSupreme enlightenment,\nI’ll have no thoughts of malice, anger,\nStinginess, or envy.",
+    "logic_link": [
+      29
+    ],
+    "sanskrit": "vyāpādakhilacittaṃ vā īrṣyāmātsaryameva va /\nadhyāgre na kariṣyāmi bodhiṃ prāpsyāmi yāvatā",
+    "bengali": "ৱ্যাপাদখিলচিত্তং ৱা ঈর্ষ্য়ামাৎসর্যমেৱ ৱ /\nঅধ্য়াগ্রে ন করিষ্য়ামি বোধিং প্রাপ্স্য়ামি যাৰতা"
+  },
+  {
+    "id": 29,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "ཚངས་པར་སྤྱོད་པ་སྤྱད་བྱ་ཞིང་། །\nསྡིག་དང་འདོད་པ་སྤང་བར་བྱ། །\nཚུལ་ཁྲིམས་སྡོམ་པ་ལ་དགའ་བས། །\nསངས་རྒྱས་རྗེས་སུ་བསླབ་པར་བྱ། །",
+    "english": "“I’ll cultivate chaste conduct and\nGive up wrongdoing and desire.\nWith joy in the vows of discipline,\nI’ll train in following the buddhas.",
+    "logic_link": [
+      30
+    ],
+    "sanskrit": "brahmacaryaṃ cariṣyāmi kāmāṃstyakṣyāmi pāpakān /\nbuddhānāmānuśikṣiṣye śīlasaṃvara saṃyame",
+    "bengali": "ব্রহ্মচর্যং চরিষ্য়ামি কামাংস্ত্যক্ষ্য়ামি পাপকান্ /\nবুদ্ধানামানুশিক্ষিষ্যে শীলসংৱর সংযমে"
+  },
+  {
+    "id": 30,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "བདག་ཉིད་མྱུར་བའི་ཚུལ་གྱིས་ནི། །\nབྱང་ཆུབ་ཐོབ་པར་མི་སྤྲོ་ཞིང་། །\nསེམས་ཅན་གཅིག་གི་རྒྱུ་ཡིས་ནི། །\nཕྱི་མའི་མུ་མཐར་གནས་པར་བགྱི། །",
+    "english": "“I’ll take no delight in quickly gaining\nEnlightenment for myself.\nWith just one being as a reason,\nI’ll stay until the end of time.",
+    "logic_link": [
+      31
+    ],
+    "sanskrit": "nāhaṃ tvaritarupeṇa bodhiṃ prāptumihotsahe /\nparāntakoṭiṃ sthāsyāmi sattvasyaikasya kāraṇāt",
+    "bengali": "নাহং ত্ৱরিতরুপেণ বোধিং প্রাপ্তুমিহোৎসহে /\nপরান্তকোটিং স্থাস্য়ামি সত্ত্ৱস্যৈকস্য কারণাৎ"
+  },
+  {
+    "id": 31,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "ཚད་མེད་བསམ་གྱིས་མི་ཁྱབ་པའི། །\nཞིང་དག་རྣམ་པར་སྦྱང་བར་བྱ། །\nམིང་ནས་གཟུང་བ་བྱས་པ་དང་། །\nཕྱོགས་བཅུ་དག་ཏུ་རྣམ་པར་གནས། །",
+    "english": "“I’ll purify inconceivable,\nLimitless numbers of realms.\nI’ll be remembered by my name,\nWhich will remain in the ten directions.",
+    "logic_link": [
+      32
+    ],
+    "sanskrit": "kṣetraṃ viśodhiṣyāmi aprameyamacintim /\nnāmadheyaṃ kariṣyāmi daśadikṣu ca viśrutam",
+    "bengali": "ক্ষেত্রং ৱিশোধিষ্য়ামি অপ্রমেয়মচিন্তিমম্ /\nনামধেয়ং করিষ্য়ামি দশদিক্ষু চ ৱিশ্রুতম্"
+  },
+  {
+    "id": 32,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "བདག་གི་ལུས་དང་ངག་གི་ལས། །\nཐམས་ཅད་དུ་ནི་དག་པར་བྱས། །\nཡིད་ཀྱི་ལས་ཀྱང་དག་བྱ་སྟེ། །\nམི་དགེའི་ལས་རྣམས་མི་བྱའོ། །",
+    "english": "“In every way I’ll purify\nMy deeds of body and speech.\nI’ll cleanse my mental acts as well—\nI shall do nothing unvirtuous.”",
+    "logic_link": [
+      33
+    ],
+    "sanskrit": "kāyavākkarmaṇī cāhaṃ śodhayiṣyāmi sarvaśaḥ /\nśodhayiṣye manaskarma kartāsmi nāśabham",
+    "bengali": "কায়ৱাক্কর্মণী চাহং শোধয়িষ্য়ামি সর্ৱশঃ /\nশোধয়িষ্যে মনস্কর্ম কর্তাস্মি নাশভম্"
+  },
+  {
+    "id": 33,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "རང་གི་ལུས་ངག་སེམས་ནི་རྣམ་དག་རྒྱུ། །\nའཇུག་པའི་སེམས་ཀྱི་བདག་ཉིད་སྡོམ་གནས་པ། །\nཚུལ་ཁྲིམས་བསླབ་པ་གསུམ་ལ་ལེགས་བསླབས་པས། །\nཚུལ་ཁྲིམས་བསླབ་པ་གསུམ་ལ་གུས་ཆེར་འགྱུར། །",
+    "english": "The cause of a pure body, speech, and mind\nIs keeping the vow of engaged bodhichitta.\nPracticing the three trainings of discipline well,\nYour respect for the three trainings will be great.",
+    "logic_link": [
+      34
+    ],
+    "sanskrit": "svakāyavākacittaviśuddhihetu, prasthānacittātmayamasthitena /\ntriśīlaśikṣāpariśiyeta cet, triśīlaśikṣāsu mahādarasyāt",
+    "bengali": "স্ৱকায়ৱাকচিত্তৱিশুদ্ধিহেতু, প্রস্থানচিত্তাত্ময়মস্থিতেন /\nত্রিশীলশিক্ষাপরিশিয়েত চেৎ, ত্রিশীলশিক্ষাসু মহাদরস্যাৎ"
+  },
+  {
+    "id": 34,
+    "chapter": "The Vows",
+    "scope": "Great",
+    "tibetan": "དེ་བས་རྣམ་དག་རྫོགས་བྱང་ཆུབ། །\nསེམས་དཔའི་སྡོམ་པའི་སྡོམ་དག་ནི། །\nའབད་པར་བྱས་པས་རྫོགས་བྱང་ཆུབ། །\nཚོགས་ནི་ཡོངས་སུ་རྫོགས་པར་འགྱུར། །",
+    "english": "Thus effort at the sattva’s vows\nFor pure and perfect awakening\nPerfects the accumulations for\nComplete enlightenment.",
+    "logic_link": [
+      35
+    ],
+    "sanskrit": "śuddhasambodhisattvānāṃ tasmāt saṃvarasaṃvṛtau /\nyatnāt sambodhisambhāraḥ paripūrṇo bhaviṣyati",
+    "bengali": "শুদ্ধসম্বোধিসত্ত্বানাং তস্মাৎ সংৱরসংৱৃতৌ /\nযত্নাৎ সম্বোধিসম্ভারঃ পরিপূর্ণো ভৱিষ্যতি"
+  },
+  {
+    "id": 35,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "བསོད་ནམས་ཡེ་ཤེས་རང་བཞིན་གྱི། །\nཚོགས་ནི་ཡོངས་སུ་རྫོགས་པ་ཡི། །\nརྒྱུ་ནི་སངས་རྒྱས་ཐམས་ཅད་དག །\nམངོན་ཤེས་སྐྱེད་པ་ཉིད་དུ་བཞེད། །",
+    "english": "All the buddhas say the cause\nOf perfecting the accumulations\nWhose natures are merit and pristine wisdom\nIs to develop clairvoyances.",
+    "logic_link": [
+      36
+    ],
+    "sanskrit": "puṇyajñānasvabhāvasya sambhārasya tu pūrtaye /\nsarvabuddhamatoheturabhijñotpāda eva hi",
+    "bengali": "পুণ্যজ্ঞানস্বভাবস্য সম্ভারস্য তু পূর্তয়ে /\nসর্ববুদ্ধমতোহেতুরভিজ্ঞোৎপাদ এৱ হি"
+  },
+  {
+    "id": 36,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "ཇི་ལྟར་འདབ་གཤོག་མ་སྐྱེས་པའི། །\nབྱ་ནི་མཁའ་ལ་འཕུར་མི་ནུས། །\nདེ་བཞིན་མངོན་ཤེས་སྟོབས་བྲལ་བས། །\nསེམས་ཅན་དོན་བྱེད་ནུས་པ་མིན། །",
+    "english": "Just as a bird whose wings aren’t edged\nCannot fly in the sky,\nWithout the powers of clairvoyance,\nOne cannot benefit beings.",
+    "logic_link": [
+      37
+    ],
+    "sanskrit": "pakṣavṛddhiṃ vinā pakṣī khe noḍaḍetuṃ yathā kṣamaḥ /\ntathābhijñābalairhīnaḥ sattvārthakaraṇe 'kṣamaḥ",
+    "bengali": "পক্ষৱৃদ্ধিং ৱিনা পক্ষী খে নোডডেতুং যথা ক্ষমঃ /\nতথাভিজ্ঞাবলৈর্হীনঃ সত্ত্ৱার্থকরণেঽক্ষমঃ"
+  },
+  {
+    "id": 37,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "མངོན་ཤེས་ལྡན་པའི་ཉིན་མཚན་གྱི། །\nབསོད་ནམས་དག་ནི་གང་ཡིན་ཏེ། །\nམངོན་ཤེས་དག་དང་བྲལ་གྱུར་ལ། །\nསྐྱེ་བ་བརྒྱར་ཡང་ཡོད་མ་ཡིན། །",
+    "english": "The merits that those with clairvoyance\nAttain in one day and night\nAren’t gained in even a hundred lives\nBy those who do not have it.",
+    "logic_link": [
+      38
+    ],
+    "sanskrit": "abhijñasya divārātrau yāni puṇyāni santi vai /\nabhijñāyāśca rāhitye naiva janmaśateṣu ca",
+    "bengali": "অভিজ্ঞস্য দিৱারাত্রৌ যানি পুণ্যানি সন্তি ৱৈ /\nঅভিজ্ঞায়াশ্চ রাহিত্যে নৈৱ জন্মশতেষু চ"
+  },
+  {
+    "id": 38,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "མྱུར་དུ་རྫོགས་པའི་བྱང་ཆུབ་ཚོགས། །\nཡོངས་སུ་རྫོགས་པར་འདོད་གྱུར་པ། །\nདེས་ནི་འབད་བྱས་མངོན་ཤེས་དག །\nའགྲུབ་པར་འགྱུར་གྱི་ལེ་ལོས་མིན། །",
+    "english": "Those who wish to swiftly complete\nThe accumulations for perfect bodhi\nAccomplish the clairvoyances\nThrough effort, not through laziness.",
+    "logic_link": [
+      39
+    ],
+    "sanskrit": "śīghraṃ sambodhisambhāraṃ sampūrayitumicchati /\nnirālasyena yatnenābhijñāṃ saṃsādhayettu saṃ",
+    "bengali": "শীঘ্রং সম্বোধিসম্ভারং সম্পূরয়িতুমিচ্ছতি /\nনিরালস্যেন যত্নেনাভিজ্ঞাং সংসাধয়েত্তু সং"
+  },
+  {
+    "id": 39,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "ཞི་གནས་གྲུབ་པ་མ་ཡིན་པས། །\nམངོན་ཤེས་འབྱུང་བར་མི་འགྱུར་བས། །\nདེ་ཕྱིར་ཞི་གནས་བསྒྲུབ་པའི་ཕྱིར། །\nཡང་དང་ཡང་དུ་འབད་པར་བྱ། །",
+    "english": "Without achieving shamatha,\nClairvoyances will not occur.\nThus make repeated efforts to\nAccomplish shamatha.",
+    "logic_link": [
+      40
+    ],
+    "sanskrit": "śamathasiddhayabhāve 'bhijñānaṃ na jāyate /\nataḥ śamathasiddhayarthaṃ yatitavyaṃ punaḥ punaḥ",
+    "bengali": "শমথসিদ্ধয়ভাবেঽভিজ্ঞানং ন জায়তে /\nঅতঃ শমথসিদ্ধ্যর্থং যতিতৱ্যং পুনঃ পুনঃ"
+  },
+  {
+    "id": 40,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "ཞི་གནས་ཡན་ལག་རྣམ་ཉམས་པས། །\nརབ་ཏུ་འབད་དེ་བསྒོམས་བྱས་ཀྱང་། །\nལོ་ན་སྟོང་ཕྲག་དག་གིས་ཀྱང་། །\nཏིང་འཛིན་འགྲུབ་པར་མི་འགྱུར་རོ། །",
+    "english": "If the requisites for shamatha\nAre lacking, one might meditate\nTenaciously for thousands of years\nBut never accomplish samadhi.",
+    "logic_link": [
+      41
+    ],
+    "sanskrit": "śamathaṅgaprahīṇatve tadyatnairbhāvite 'pi ca /\nsaṃvatsarasahasraiśca samādhirnaiva setsyati",
+    "bengali": "শমথঙ্গপ্রহীণত্ৱে তদ্যত্নৈর্ভাবিতে ঽপি চ /\nসংৱৎসরসহস্রৈশ্চ সমাধির্নৈৱ সেত্স্যতি"
+  },
+  {
+    "id": 41,
+    "chapter": "Higher Perception",
+    "scope": "Great",
+    "tibetan": "དེ་ཕྱིར་ཏིང་འཛིན་ཚོགས་ལེའུ་ལས། །\nགསུངས་པའི་ཡན་ལག་ལ་ལེགས་གནས། །\nདམིགས་པ་གང་རུང་གཅིག་ལ་ཡང་། །\nཡིད་ནི་དགེ་ལ་གཞག་པར་བྱ། །",
+    "english": "Thus maintain well the requisites\nTaught in the Requisites for Samadhi.\nOn any of the focuses,\nRest your mind on virtue.",
+    "logic_link": [
+      42
+    ],
+    "sanskrit": "ataḥ samādhisambhārādhyāyoktāṅgasamāśritaḥ /\nkasmiṃścit alambane 'pi puṇye saṃsthāpayenmanaḥ",
+    "bengali": "অতঃ সমাধিসম্ভারাধ্যাযোক্তাঙ্গসমাশ্রিতঃ /\nকস্মিংশ্চিৎ অলম্বনে ঽপি পুণ্যে সংস্থাপয়েন্মনঃ"
+  },
+  {
+    "id": 42,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "རྣལ་འབྱོར་ཞི་གནས་གྲུབ་གྱུར་ན། །\nམངོན་ཤེས་དག་ཀྱང་འགྲུབ་པར་འགྱུར། །\nཤེས་རབ་ཕ་རོལ་ཕྱིན་སྦྱོར་དང་། །\nབྲལ་བས་སྒྲིབ་པ་ཟད་མི་འགྱུར། །",
+    "english": "When yogis achieve shamatha,\nThey also gain clairvoyances.\nWithout the training in transcendent prajna,\nThe obscurations cannot be removed.",
+    "logic_link": [
+      43
+    ],
+    "sanskrit": "yoginaḥ śamathe siddhe 'bhijñānaṃ cāpi setsyati /\nprajñāpāramitāyogaṃ vinā nāvaraṇakṣayaḥ",
+    "bengali": "যোগিনঃ শমথে সিদ্ধেঽভিজ্ঞানং চাপি সেত্স্যতি /\nপ্রজ্ঞাপারমিতাযোগং ৱিনা নাৱরণক্ষয়ঃ"
+  },
+  {
+    "id": 43,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "དེ་ཕྱིར་ཉོན་མོངས་ཤེས་བྱ་ཡི། །\nསྒྲིབ་པ་མ་ལུས་སྤང་བའི་ཕྱིར། །\nཤེས་རབ་ཕ་རོལ་ཕྱིན་རྣལ་འབྱོར། །\nརྟག་ཏུ་ཐབས་བཅས་བསྒོམ་པར་བྱ། །",
+    "english": "Thus, to abandon all the obscurations—\nThe cognitive along with the affective—\nMeditate continually on the yogas\nOf transcendent prajna with its means.",
+    "logic_link": [
+      44
+    ],
+    "sanskrit": "kleśajñeyāvṛtestasmāt prahāṇārthamaśeṣataḥ /\nprajñāpāramitāṃ yogī sopāyaṃ bhāvayet sadā",
+    "bengali": "ক্লেশজ্ঞেয়াৱৃতেস্তস্মাৎ প্রহাণার্থমশেষতঃ /\nপ্রজ্ঞাপারমিতাং যোগী সোপায়ং ভাৱয়েৎ সদা"
+  },
+  {
+    "id": 44,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "ཐབས་དང་བྲལ་བའི་ཤེས་རབ་དང་། །\nཤེས་རབ་བྲལ་བའི་ཐབས་དག་ཀྱང་། །\nགང་ཕྱིར་འཆིང་བ་ཞེས་གསུངས་པ། །\nདེ་ཕྱིར་གཉིས་ཀ་སྤང་མི་བྱ། །",
+    "english": "Prajna without the skillful means\nAnd means that lack the prajna\nAre bondage, it is said, and thus\nDon’t discard either one.",
+    "logic_link": [
+      45
+    ],
+    "sanskrit": "upāyarahitā prajñāpyupāyaḥ prajñayā vinā /\nyato bandha iti proktau praheyaṃ nobhayaṃ tataḥ",
+    "bengali": "উপায়রহিতা প্রজ্ঞাপ্যুপায়ঃ প্রজ্ঞয়া ৱিনা /\nযতো বন্ধ ইতি প্রোক্তৌ প্রহেয়ং নোভয়ং ততঃ"
+  },
+  {
+    "id": 45,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "ཤེས་རབ་གང་དང་ཐབས་གང་ཞེས། །\nཐེ་ཚོམ་དག་ནི་སྤང་བྱའི་ཕྱིར། །\nཐབས་རྣམས་དང་ནི་ཤེས་རབ་ཀྱི། །\nཡང་དག་དབྱེ་བ་གསལ་བར་བྱ། །",
+    "english": "To eliminate any doubts about\nWhat prajna is and what means are,\nI’ll clarify the difference\nBetween skillful means and prajna.",
+    "logic_link": [
+      46
+    ],
+    "sanskrit": "kā prajñā ka upāyaśca śaṅkāmiti nirāsitum /\nupāyasya ca prajñāyāḥ bhedaḥ samyak prakāśyate",
+    "bengali": "কা প্রজ্ঞা ক উপায়শ্চ শঙ্কামিতি নিরাসিতুম্ /\nউপায়স্য চ প্রজ্ঞায়াঃ ভেদঃ সম্যক্ প্রকাশ্য়তে"
+  },
+  {
+    "id": 46,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་སྤངས་པའི། །\nསྦྱིན་པའི་ཕ་རོལ་ཕྱིན་ལ་སོགས། །\nདགེ་བའི་ཚོགས་རྣམས་ཐམས་ཅད་དག །\nརྒྱལ་བ་རྣམས་ཀྱི་ཐབས་སུ་བཤད། །",
+    "english": "Apart from the transcendent prajna,\nAll of the virtuous qualities\nSuch as transcendent generosity\nAre means, explained the Victor.",
+    "logic_link": [
+      47
+    ],
+    "sanskrit": "prajñāpāramitāṃ tyaktvā dānapāramitādayaḥ /\nsarve hi kuśalāḥ dharmāḥ upāyāḥ jinabhāṣitāḥ",
+    "bengali": "প্রজ্ঞাপারমিতাং ত্যক্ত্ৱা দানপারমিতাদয়ঃ /\nসর্ৱে হি কুশলাঃ ধর্মাঃ উপায়াঃ জিনভাষিতাঃ"
+  },
+  {
+    "id": 47,
+    "chapter": "Calm Abiding",
+    "scope": "Great",
+    "tibetan": "ཐབས་བསྒོམས་དབང་གིས་བདག་ཉིད་ཀྱིས། །\nགང་ཞིག་ཤེས་རབ་རྣམ་བསྒོམ་པ། །\nདེ་ནི་བྱང་ཆུབ་མྱུར་དུ་ཐོབ། །\nབདག་མེད་གཅིག་པུ་བསྒོམས་པས་མིན། །",
+    "english": "Those beings who meditate on prajna\nSwiftly achieve enlightenment\nBy cultivating means, not just\nBy meditating on selflessness.",
+    "logic_link": [
+      48
+    ],
+    "sanskrit": "upāyābhyāsavaśyātmā yo hi prajñāṃ vibhāvayet /\nśīghraṃ sa labhate bodhiṃ na nairātmyaikabhāvanāt",
+    "bengali": "উপায়াভ্যাসবশ্যাত্মা যো হি প্রজ্ঞাং বিভাৱয়েৎ /\nশীঘ্রং স লভতে বোধিং ন নৈরাত্ম্যৈকভাবনাৎ"
+  },
+  {
+    "id": 48,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "ཕུང་པོ་ཁམས་དང་སྐྱེ་མཆེད་རྣམས། །\nསྐྱེ་བ་མེད་པར་རྟོགས་གྱུར་པའི། །\nརང་བཞིན་སྟོང་ཉིད་ཤེས་པ་ནི། །\nཤེས་རབ་ཅེས་ནི་ཡོངས་སུ་བཤད། །",
+    "english": "Prajna is taught to be the knowing\nOf inherent emptiness\nThat realizes the aggregates,\nElements, and sense bases don’t arise.",
+    "logic_link": [
+      49
+    ],
+    "sanskrit": "skandhāyatanadhātūnāmanutpādāvabodhinām /\nsvabhāvaśūnyatājñānaṃ prajñeti parikīrtitā",
+    "bengali": "স্কন্ধায়তনধাতূনামনুৎপাদাববোধিনাম্ /\nস্বভাবশূন্যতাজ্ঞানং প্রজ্ঞেতি পরিকীর্তিতা"
+  },
+  {
+    "id": 49,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "ཡོད་པ་སྐྱེ་བ་རིགས་མིན་ཏེ། །\nམེད་པའང་ནམ་མཁའི་མེ་ཏོག་བཞིན། །\nཉེས་པ་གཉིས་ཀར་ཐལ་འགྱུར་ཕྱིར། །\nགཉིས་ཀ་དག་ཀྱང་འབྱུང་བ་མིན། །",
+    "english": "It is not logical for the existent\nTo arise, nor for the nonexistent\nSuch as sky flowers. Both faults would apply,\nSo that which is both has no arising either.",
+    "logic_link": [
+      50
+    ],
+    "sanskrit": "sadutpattirayuktāsti asaccāpi khapuṣpavat /\ndvayordoṣaprasaṅgatvāt udbhāvo na dvayorapi",
+    "bengali": "সদুৎপত্তিরযুক্তাস্তি অসচ্চাপি খপুষ্পৱৎ /\nদ্ৱয়োর্দোষপ্রসঙ্গত্ৱাৎ উদ্ভাবো ন দ্ৱয়োরপি"
+  },
+  {
+    "id": 50,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "དངོས་པོ་རང་ལས་མི་སྐྱེ་ཞིང་། །\nགཞན་དང་གཉིས་ཀ་ལས་ཀྱང་མིན། །\nརྒྱུ་མེད་ལས་མིན་དེ་ཡི་ཕྱིར། །\nངོ་བོ་ཉིད་ཀྱིས་རང་བཞིན་མེད། །",
+    "english": "Things do not arise from themselves,\nNor from another, nor from both,\nNor without cause, and for that reason\nInherently they have no nature.",
+    "logic_link": [
+      51
+    ],
+    "sanskrit": "anutpannaḥ svato bhāvo parato nobhayorapi /\nahetuteśca no tasmāt niḥsvabhāvaḥ svarupataḥ",
+    "bengali": "অনুৎপন্নঃ স্ৱতো ভাবো পরতো নোভয়োরপি /\nঅহেতুতেশ্চ নো তস্মাৎ নির্স্বভাবঃ স্ৱরুপতঃ"
+  },
+  {
+    "id": 51,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "ཡང་ན་ཆོས་རྣམས་ཐམས་ཅད་དག །\nགཅིག་དང་དུ་མས་རྣམ་དཔྱད་ན། །\nངོ་བོ་ཉིད་ནི་མི་དམིགས་པས། །\nརང་བཞིན་མེད་པ་ཉིད་དུ་ངེས། །",
+    "english": "Or else when analyzing whether\nAll dharmas are single or multiple,\nNo essence is observed and thus\nThey’re ascertained to have no nature.",
+    "logic_link": [
+      52
+    ],
+    "sanskrit": "athavā sarvadharmāṇāṃ caikānekavicāraṇe /\nsvarupāprāpyamāṇatvāt niḥsvabhāvatvaniścayaḥ",
+    "bengali": "অথৱা সর্ৱধর্মাণাং চৈকানেকৱিচারণে /\nস্ৱরুপাপ্রাপ্যমাণত্ৱাৎ নির্স্বভাবত্বনিশ্চয়ঃ"
+  },
+  {
+    "id": 52,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "སྟོང་ཉིད་བདུན་ཅུའི་རིགས་པ་དང་། །\nདབུ་མ་རྩ་བ་སོགས་ལས་ཀྱང་། །\nདངོས་པོ་རྣམས་ཀྱི་རང་བཞིན་གྱི། །\nསྟོང་པ་ཉིད་ནི་གྲུབ་བཤད་པ། །",
+    "english": "The logics in the Seventy Verses,\nRoot Middle Way, and other texts\nExplain how it’s established that\nThe nature of all things is emptiness.",
+    "logic_link": [
+      53
+    ],
+    "sanskrit": "śunyatāsaptau yuktau mūlamadhyamakādiṣu /\nsiddho bhāvasvabhāvastu śunyatāyāṃ bhāṣitaḥ",
+    "bengali": "শুন্যতাসপ্তৌ যুক্তৌ মূলমধ্যমকাদিষু /\nসিদ্ধো ভাবস্বভাবস্তু শুন্যতায়াং ভাষিতঃ"
+  },
+  {
+    "id": 53,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "གང་ཕྱིར་གཞུང་ནི་མངས་འགྱུར་བས། །\nདེ་ཕྱིར་འདིར་ནི་མ་སྤྲོས་ལ། །\nགྲུབ་པའི་གྲུབ་མཐའ་ཙམ་ཞིག་ཏུ། །\nབསྒོམ་པའི་ཕྱིར་ནི་རབ་ཏུ་བཤད། །",
+    "english": "Because this text would be too long,\nI’ve not elaborated here.\nBut for the sake of meditation\nI’ve merely taught the tenets they prove.",
+    "logic_link": [
+      54
+    ],
+    "sanskrit": "granthasya gauravo yasmāt atra tasmānna vistaraḥ /\nsiddhasiddhāntamātraikaṃ bhāvanārthaṃ prabhāṣitam",
+    "bengali": "গ্রন্থস্য গৌরৱো যস্মাৎ অত্র তস্মান্ন ৱিস্তরঃ /\nসিদ্ধসিদ্ধান্তমাত্রৈকং ভাবনার্থং প্রভাষিতম্"
+  },
+  {
+    "id": 54,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "དེ་བས་ཆོས་རྣམས་མ་ལུས་པའི། །\nརང་བཞིན་དག་ནི་མི་དམིགས་པས། །\nབདག་མེད་པར་ནི་བསྒོམ་གང་ཡིན། །\nདེ་ཉིད་ཤེས་རབ་བསྒོམ་པ་ཡིན། །",
+    "english": "Therefore the natures of all dharmas\nCannot be not observed and thus\nMeditating on selflessness\nIs meditating on prajna.",
+    "logic_link": [
+      55
+    ],
+    "sanskrit": "tasmādaśeṣadharmāṇāṃ svabhāvanāmalābhataḥ /\nnairātmyabhāvanā yā hi sā prajñāyāstu bhāvanā",
+    "bengali": "তস্মাদশেষধর্মাণাং স্বভাবনামলাভতঃ /\nনৈরাত্ম্যভাবনা যা হি সা প্রজ্ঞায়াস্তু ভাবনা"
+  },
+  {
+    "id": 55,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "ཤེས་རབ་ཀྱིས་ནི་ཆོས་རྣམས་ཀུན། །\nགང་གི་རང་བཞིན་མ་མཐོང་ཞིང་། །\nཤེས་རབ་དེ་ཉིད་རིག་བཤད་པ། །\nརྣམ་རྟོག་མེད་པར་དེ་བསྒོམ་བྱ། །",
+    "english": "Just as prajna sees no nature\nOf any phenomenon at all,\nMeditate with the logics taught\nOn prajna itself, free of thought.",
+    "logic_link": [
+      56
+    ],
+    "sanskrit": "prajñayā sarvadharmaṇāṃ yatsvabhāvo na dṛṣṭavat /\nyuktayā parīkṣya tāṃ prajñāṃ so 'vikalpena bhāvayet",
+    "bengali": "প্রজ্ঞয়া সর্ৱধর্মণাং যৎস্বভাবো ন দৃষ্টৱৎ /\nযুক্তয়া পরীক্ষ্য তাং প্রজ্ঞাং সো ঽৱিকল্পেন ভাৱয়েৎ"
+  },
+  {
+    "id": 56,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "རྣམ་རྟོག་ལས་བྱུང་སྲིད་པ་འདི། །\nརྣམ་པར་རྟོག་པའི་བདག་ཉིད་དེ། །\nདེ་ཕྱིར་མ་ལུས་རྟོགས་སྤངས་པ། །\nམྱ་ངན་འདས་པ་མཆོག་ཡིན་ནོ། །\n\nདེ་ལྟར་ཡང་བཅོམ་ལྡན་འདས་ཀྱིས། །",
+    "english": "The character of this existence,\nBorn from thought, is thought.\nTherefore abandoning all thought\nIs the supreme nirvana.\n\nAccordingly, the Bhagavan has also said:",
+    "logic_link": [
+      57
+    ],
+    "sanskrit": "bhavo vikalpobhūto 'yaṃ tadvikalpātmakastataḥ /\nsarvakalpaparityāgaḥ nivārṇaḥ paramo 'sti hi",
+    "bengali": "ভবো বিকল্পোভূতো ঽয়ং তদ্ৱিকল্পাত্মকস্ততঃ /\nসর্ৱকল্পপরিত্যাগঃ নিৱার্ণঃ পরমো ঽস্তি হি"
+  },
+  {
+    "id": 57,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "རྣམ་རྟོག་མ་རིག་ཆེན་པོ་སྟེ། །\nའཁོར་བའི་རྒྱ་མཚོར་ལྟུང་བར་བྱེད། །\nརྟོག་མེད་ཏིང་འཛིན་ལ་གནས་པ། །\nནམ་མཁའ་བཞིན་དུ་རྟོག་མེད་གསལ། །ཞེས་གསུངས་སོ། །",
+    "english": "“Thought—the great ignorance—makes us\nFall into the ocean of samsara.\nResting in thought-free samadhi,\nNonthought is clear as the sky.”",
+    "logic_link": [
+      58
+    ],
+    "sanskrit": "evamapyuktaṃ bhagavatā - -\n\nmahāvidyā vikalpo hi saṃsārārṇavapātakaḥ /\nnirvikalpasamādhisthe 'vikalpo bhāsate khavat",
+    "bengali": "এৱমপ্যুক্তং ভগবতা - -\n\nমহাৱিদ্যা ৱিকল্পো হি সংসারার্ণৱপাতকঃ /\nনিৰ্ৱিকল্পসমাধিস্থেঽৱিকল্পো ভাসতে খবৎ"
+  },
+  {
+    "id": 58,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "རྣམ་པར་མི་རྟོག་པ་ལ་འཇུག་པའི་གཟུངས་ལས་ཀྱང་། །\nདམ་ཆོས་འདི་ལ་རྒྱལ་བའི་སྲས། །\nརྣམ་པར་མི་རྟོག་བསམས་གྱུར་ན། །\nརྣམ་རྟོག་བགྲོད་དཀའ་རྣམས་འདས་ཏེ། །\nརིམ་གྱིས་མི་རྟོག་ཐོབ་པར་འགྱུར། །ཞེས་གསུངས་སོ། །",
+    "english": "“When the victors’ children, without thought,\nContemplate the True Dharma,\nThey transcend thoughts so hard to escape\nAnd eventually achieve nonthought.”",
+    "logic_link": [
+      59
+    ],
+    "sanskrit": "avikalpapraveśadhāraṇyāmapi uktam - -\n\ncintitenirvikalpe 'smin saddharme jinaputrakaiḥ /\nvikalpaṃ durgamaṃ tīrtvāvikalpo prāpsyate kramāt",
+    "bengali": "অৱিকল্পপ্রৱেশধারণ্যামপি উক্তম্ - -\n\nচিন্তিতেনিৰ্ৱিকল্পেঽস্মিন্ সদ্ধর্মে জিনপুত্রকৈঃ /\nৱিকল্পং দুর্গমং তীর্ত্ৱাৱিকল্পো প্রাপ্স্যতে ক্রমাৎ"
+  },
+  {
+    "id": 59,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "ལུང་དང་རིགས་པ་དག་གིས་ནི། །\nཆོས་རྣམས་ཐམས་ཅད་སྐྱེ་མེད་པའི། །\nརང་བཞིན་མེད་པ་ངེས་བྱས་ནས། །\nརྣམ་པར་རྟོག་མེད་བསྒོམས་པར་བྱ། །",
+    "english": "Once you are certain from the scriptures\nAnd logic that all phenomena\nHave no arising and no nature,\nMeditate without thoughts.",
+    "logic_link": [
+      60
+    ],
+    "sanskrit": "niścayīyāgamayuktibhyāṃ svabhāva rahitān tathā /\nsarvān dharmānutpannānavikalpaṃ bhāvayet",
+    "bengali": "নিশ্চয়ীয়াগমযুক্তিভ্যাং স্বভাব রহিতান্ তথা /\nসর্ৱান্ ধর্মানুৎপন্নানৱিকল্পং ভাৱয়েৎ"
+  },
+  {
+    "id": 60,
+    "chapter": "Special Insight",
+    "scope": "Great",
+    "tibetan": "དེ་ལྟར་དེ་ཉིད་བསྒོམ་བྱས་ནས། །\nརིམ་གྱིས་དྲོད་སོགས་ཐོབ་བྱས་ནས། །\nརབ་དགའ་ལ་སོགས་ཐོབ་འགྱུར་ཏེ། །\nསངས་རྒྱས་བྱང་ཆུབ་ཡུན་མི་རིང་། །",
+    "english": "Thus as you meditate on suchness,\nWarmth and so forth are gained in turn.\nThen you’ll achieve the Truly Joyous—\nIt won’t be long till buddhahood.",
+    "logic_link": [
+      61
+    ],
+    "sanskrit": "bhāvayannidamevetthaṃ prāpyoṣṇatvādikaṃ kramāt /\nlabhate pramuditvādiṃ buddhabodhirna lambitā",
+    "bengali": "ভাবয়ন্নিদমেবেত্থং প্রাপ্যোষ্ণত্ৱাদিকং ক্রমাৎ /\nলভতে প্রমুদিত্ৱাদিং বুদ্ধবোধির্ন লম্বিতা"
+  },
+  {
+    "id": 61,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "སྔགས་མཐུ་ཉིད་ལས་གྲུབ་པ་ཡི། །\nཞི་དང་རྒྱས་སོགས་ལས་རྣམས་ཀྱིས། །\nབུམ་པ་བཟང་གྲུབ་ལ་སོགས་པ། །",
+    "english": "If you wish to easily perfect\nThe accumulations for enlightenment\nThrough pacifying, enriching, and the other\nActivities achieved from mantra’s power",
+    "logic_link": [
+      62
+    ],
+    "sanskrit": "sādhitairmantraśaktayā hi śāntivistarakarmabhiḥ /\nbhadrakumbhādisiddhāṣṭamahāsiddhibalena ca",
+    "bengali": "সাধিতৈর্মন্ত্রশক্তয়া হি শান্তিবিস্তরকর্মভিঃ /\nভদ্রকুম্ভাদিসিদ্ধাষ্টমহাসিদ্ধিবলেন চ"
+  },
+  {
+    "id": 62,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "གྲུབ་ཆེན་བརྒྱད་སོགས་སྟོབས་ཀྱིས་ཀྱང་། །\nབདེ་བ་ཡིས་ནི་བྱང་ཆུབ་ཚོགས། །\nཡོངས་སུ་རྫོགས་པར་འདོད་པ་དང་། །\nབྱ་བ་སྤྱོད་སོགས་རྒྱུད་གསུངས་པའི། །\nགལ་ཏེ་གསང་སྔགས་སྤྱོད་འདོད་ན། །",
+    "english": "And through the power of the eight great siddhis\nOf accomplishing the fine vase and so forth—\nIf you wish to practice the secret mantra\nTaught in the action, conduct, and other tantras—",
+    "logic_link": [
+      63
+    ],
+    "sanskrit": "abhīṣṭā bodhisambhāraparipūrtiḥ sukhena cet /\nkriyācaryādi tantrokam guhyācaraṇabhiṣyate",
+    "bengali": "অভীষ্টা বোধিসম্ভারপরিপূর্তিঃ সুখেন চেৎ /\nক্রিয়াচর্য়াদি তন্ত্রোকম্ গুহ্যাচরণভিষ্যতে"
+  },
+  {
+    "id": 63,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "དེ་ཚེ་སློབ་དཔོན་དབང་བསྐུར་ཕྱིར། །\nབསྙེན་བཀུར་རིན་ཆེན་སོགས་སྦྱིན་དང་། །\nདཀའ་སྒྲུབ་ལ་སོགས་ཐམས་ཅད་ཀྱིས། །\nབླ་མ་དམ་པ་མཉེས་པར་བྱ། །",
+    "english": "Then to receive the empowerment\nOf the vajra master, please the guru\nWith service and offerings of wealth\nAs well as by carrying out commands.",
+    "logic_link": [
+      64
+    ],
+    "sanskrit": "tadācāryabhiṣekārthaṃ mahāratnādidānataḥ /\nsadguruṃ prīṇayed bhaktayā sarvāñjñādipālanaiḥ",
+    "bengali": "তদাচার্যাভিষেকার্থং মহারত্নাদিদানতঃ /\nসদ্গুরুং প্রীণয়েদ্ ভক্তয়া সর্ৱাঞ্জ্ঞাদিপালনৈঃ"
+  },
+  {
+    "id": 64,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "བླ་མ་མཉེས་པར་གྱུར་པ་ཡིས། །\nཡོངས་རྫོགས་སློབ་དཔོན་དབང་བསྐུར་བས། །\nསྡིག་ཀུན་རྣམ་དག་བདག་ཉིད་ནི། །\nདངོས་གྲུབ་སྒྲུབ་པའི་སྐལ་ལྡན་འགྱུར། །",
+    "english": "When a guru who is pleased bestows\nThe full empowerment of the master,\nYour misdeeds will all be purified;\nYou’ll have the fortune to gain the siddhis.",
+    "logic_link": [
+      65
+    ],
+    "sanskrit": "prasanne ca gurau bhūte pūrṇācāryābhiṣekataḥ /\nsarvapāpaviśuddhātmā siddhibhāgī bhaviṣyati",
+    "bengali": "প্রসন্নে চ গুরৌ ভূতে পূর্ণাচার্যাভিষেকতঃ /\nসর্ৱপাপৱিশুদ্ধাত্মা সিদ্ধিভাগী ভৱিষ্যতি"
+  },
+  {
+    "id": 65,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "དང་པོ་སངས་རྒྱས་རྒྱུད་ཆེན་ལས། །\nརབ་ཏུ་འབད་པས་བཀག་པའི་ཕྱིར། །\nགསང་བ་ཤེས་རབ་དབང་བསྐུར་ནི། །\nཚངས་པར་སྤྱོད་པས་བླང་མི་བྱ། །",
+    "english": "The great tantra of the primordial buddha\nEmphatically prohibits it,\nSo the celibate should never take\nThe secret and prajna empowerments.",
+    "logic_link": [
+      66
+    ],
+    "sanskrit": "ādibuddhamahātantre prayatnena niṣedhataḥ /\nguhyaprajñābhiṣekastu na grahyā brahmacārariṇā",
+    "bengali": "আদিবুদ্ধমহাতন্ত্রে প্রয়ত্নেন নিষেধতঃ /\nগুহ্যপ্রজ্ঞাভিষেকস্তু ন গ্রহ্যা ব্রহ্মচাররিণা"
+  },
+  {
+    "id": 66,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "གལ་ཏེ་དབང་བསྐུར་དེ་འཛིན་ན། །\nཚངས་སྤྱོད་དཀའ་ཐུབ་ལ་གནས་པས། །\nབཀག་པ་སྤྱད་པར་འགྱུར་བའི་ཕྱིར། །\nདཀའ་ཐུབ་སྡོམ་པ་དེ་ཉམས་ཏེ། །",
+    "english": "If those who practice celibacy\nHad those empowerments\nAnd did what is prohibited,\nThe vows of discipline would be broken",
+    "logic_link": [
+      67
+    ],
+    "sanskrit": "so 'bhiṣeko gṛhītaścet brahyacaryatapaḥ sthitaiḥ /\nniṣiddhācaraṇatvāt tattapaḥ samvarakṣayaḥ",
+    "bengali": "সো ঽভিষেকো গৃহীতশ্চেৎ ব্রহ্যচর্যপঃ স্থিতৈঃ /\nনিষিদ্ধাচরণত্ৱাৎ তত্তপঃ সংৱরক্ষয়ঃ"
+  },
+  {
+    "id": 67,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "བརྟུལ་ཞུགས་ཅན་དེ་ཕམ་པ་ཡི། །\nལྟུང་བ་དག་ནི་འབྱུང་འགྱུར་ཞིང་། །\nདེ་ནི་ངན་སོང་ངེས་ལྷུང་བས། །\nགྲུབ་པ་ཡང་ནི་ཡོད་མ་ཡིན། །",
+    "english": "And the practitioners would incur\nA downfall that is a defeat.\nThey’d fall into the lower realms—\nAccomplishment would elude them.",
+    "logic_link": [
+      68
+    ],
+    "sanskrit": "jāyante vratinastasya pārājikavipattayaḥ /\nsaḥ pateddurgatau nūnaṃ siddhirnaiva kadācana",
+    "bengali": "জায়ন্তে ৱ্রতিনস্তস্য পারাজিকৱিপত্তয়ঃ /\nসঃ পতেদ্দুর্গতৌ নূনং সিদ্ধির্নৈৱ কদাচন"
+  },
+  {
+    "id": 68,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "རྒྱུད་ཀུན་ཉན་དང་འཆད་པ་དང་། །\nསྦྱིན་སྲེག་མཆོད་སྦྱིན་སོགས་བྱེད་པ། །\nསློབ་དཔོན་དབང་བསྐུར་རྙེད་འགྱུར་ཞིང་། །\nདེ་ཉིད་རིག་ལ་ཉེས་པ་མེད། །",
+    "english": "For those who’ve received the master empowerment\nOr who have known suchness, there’s no fault\nIn teaching or listening to any tantra,\nPerforming a fire puja, offering, or so forth.",
+    "logic_link": [
+      69
+    ],
+    "sanskrit": "sarvatantraśrutau bhāṣye homayajñādikarmāsu /\nlabdhācāryābhiṣekaśca tattvavida naiva duṣyati",
+    "bengali": "সর্ৱতন্ত্রশ্রুতৌ ভাষ্যে হোমযজ্ঞাদিকর্মাসু /\nলব্ধাচার্যাভিষেকশ্চ তত্ত্ৱৱিদ নৈৱ দুষ্যতি"
+  },
+  {
+    "id": 69,
+    "chapter": "Conclusion",
+    "scope": "Great",
+    "tibetan": "གནས་བརྟན་མར་མེ་མཛད་དཔལ་གྱིས། །\nམདོ་སོགས་ཆོས་ལས་བཤད་མཐོང་བ། །\nབྱང་ཆུབ་འོད་ཀྱིས་གསོལ་བཏབ་ནས། །\nབྱང་ཆུབ་ལམ་བཤད་མདོར་བསྡུས་བྱས། །\n\nབྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ་སློབ་དཔོན་ཆེན་པོ་དཔལ་མར་མེ་མཛད་ཡེ་ཤེས་ཀྱིས་མཛད་པ་རྫོགས་སོ།། རྒྱ་གར་གྱི་མཁན་པོ་ཆེན་པོ་དེ་ཉིད་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྭ་བ་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་ཞིང་གཏན་ལ་ཕབ་པ། ཆོས་འདི་ནི་ཞང་ཞུང་གི་ཐོ་ལིང་གཙུག་ལག་ཁང་དུ་མཛད་པའོ།། །།",
+    "english": "Upon the supplication of Jangchup Ö,\nI, the Elder Dipaṅkara Śrī,\nExplained in brief the path of enlightenment\nAs I’ve seen taught in sutras and other Dharma.\n\nThis concludes The Lamp for the Path to Enlightenment...",
+    "sanskrit": "dīpaṅkaraśriyā bodhipathaḥ proktaḥ samāsataḥ /\ndṛaṣṭvā sūtrādidharmoktiṃ bodhiprabhanivedanāt",
+    "bengali": "দীপঙ্করশ্রিয়া বোধিপথঃ প্রোক্তঃ সমাসতঃ /\nদৃষ্ট্ৱা সূত্রাদিধর্মোক্তিং বোধিপ্রভনিবেদনাৎ"
+  }
+]

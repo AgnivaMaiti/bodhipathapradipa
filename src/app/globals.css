@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-charcoal: #121212;
+  --color-cloud-white: #F5F5F5;
+  --color-saffron: #E17E26;
+  --color-tibetan-red: #B12C2C;
+
+  --color-background: var(--color-charcoal);
+  --color-foreground: var(--color-cloud-white);
+
+  --font-serif: var(--font-fraunces);
+  --font-mono: var(--font-jetbrains-mono);
+  --font-crimson: var(--font-crimson);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-serif);
+}
