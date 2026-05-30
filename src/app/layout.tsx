@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Fraunces, JetBrains_Mono, Crimson_Text } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const fraunces = Fraunces({
@@ -80,6 +81,7 @@ export default function RootLayout({
         className={`${fraunces.variable} ${jetbrainsMono.variable} ${crimsonText.variable} antialiased bg-charcoal text-cloud-white`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );

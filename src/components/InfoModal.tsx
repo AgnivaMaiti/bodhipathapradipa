@@ -65,11 +65,6 @@ export const InfoModal = ({ isOpen, onClose, type }: InfoModalProps) => {
                                                 Invited by the Tibetan King Jangchup Ö, he spent his final years in the Snowy Land, leaving a legacy that shapes Tibetan Buddhism to this day.
                                             </p>
                                         </div>
-                                        <div className="pt-6 border-t border-white/5">
-                                            <a href="https://agniva.in" target="_blank" rel="noreferrer" className="font-mono text-[10px] tracking-widest text-saffron hover:text-white transition-colors uppercase">
-                                                ← visit agniva.in
-                                            </a>
-                                        </div>
                                     </div>
                                 ) : (
                                     <div className="space-y-6">
@@ -89,7 +84,10 @@ export const InfoModal = ({ isOpen, onClose, type }: InfoModalProps) => {
                                         </div>
 
                                         <div className="pt-6 border-t border-white/5 flex gap-6 font-mono text-xs flex-wrap">
-                                            <a href="https://github.com/AgnivaMaiti" target="_blank" rel="noreferrer" className="text-saffron hover:text-white transition-colors">
+                                            <a href="https://agniva.in" target="_blank" rel="noreferrer" className="text-saffron hover:text-white transition-colors">
+                                                 AGNIVA.IN_
+                                             </a>
+                                             <a href="https://github.com/AgnivaMaiti" target="_blank" rel="noreferrer" className="text-saffron hover:text-white transition-colors">
                                                 GITHUB_
                                             </a>
                                             <a href="https://x.com/AgnivaMait67736" target="_blank" rel="noreferrer" className="text-saffron hover:text-white transition-colors">
